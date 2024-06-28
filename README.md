@@ -1,2 +1,2 @@
 # ASSIGNMENT
-Adding Background Images and its properties to HTML &amp; CSS
+Adding Background Images and its properties to HTML & CSS
